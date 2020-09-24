@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+/root/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2119448138.index
+/DYnamicweb/src/main/resources
